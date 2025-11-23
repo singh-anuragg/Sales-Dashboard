@@ -16,11 +16,3 @@
 ## **Dashboard**
 
 ![Alt text of the image](https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
-
-
-
-
-## **Final Conclusion:**
-
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
-
