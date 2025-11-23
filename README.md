@@ -1,45 +1,22 @@
-# Sales-Dashboard---PowerBI
-# Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
-
-## **Project Objective**
-
-The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2025.
+# Sales-Data-Analysis (Interactive Dashboard creation using Power BI)
 
 ## **Questions (KPIs)**
 
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-
-
-
-## **Process**
-
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer.
-
+- Compare the sales and sub category?
+- Which quarter got the highest sales?
+- Sum of profit greater than 5000?
+- Who are the customers and their purchases amount?
+- List of Sub category and their profits?
+- Total Sum of Amount?.
+- Total Sum of Profit?
+- Total Sum of Quantity?
+- Sum of Quantity and their Payment Mode? 
 
 
 ## **Dashboard**
 
 ![Alt text of the image](https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
 
-
-
-
-## **Project Insight**
-
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
 
 
